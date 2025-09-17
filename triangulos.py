@@ -246,4 +246,5 @@ st.download_button(
     mime="text/plain",
 )
 
-st.caption("Consejo: cambia A, B y C en la barra lateral para ver cómo se mueven G, I y H. Las líneas de trazo muestran dos alturas que se cruzan en H.")
+st.caption("El archivo contiene los datos calculados")
+
